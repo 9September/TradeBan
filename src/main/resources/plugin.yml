@@ -1,0 +1,4 @@
+name: TradeBan
+version: '${project.version}'
+main: yd.kingdom.tradeban.TradeBan
+api-version: '1.20'
